@@ -57,15 +57,14 @@ As tabelas utilizadas foram importadas em formato CSV a partir de [dados disponi
    ```bash
    git clone https://github.com/seuusuario/seuprojeto.git
    cd seuprojeto
-2.
-  ```bash
+
+2. Crie um ambiente virtual e instale as dependências:
   python -m venv venv
   source venv/bin/activate   # Linux/Mac
   venv\Scripts\activate      # Windows
   pip install -r requirements.txt
 
-3.
-  ```bash
+3. Abra o Jupyter Notebook:
   jupyter notebook
 
 4. Execute o arquivo dados_python_sql.ipynb.
