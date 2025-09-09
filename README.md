@@ -59,15 +59,20 @@ As tabelas utilizadas foram importadas em formato CSV a partir de [dados disponi
    cd seuprojeto
 
 2. Crie um ambiente virtual e instale as dependências:
+
   python -m venv venv
+  
   source venv/bin/activate   # Linux/Mac
+  
   venv\Scripts\activate      # Windows
+  
   pip install -r requirements.txt
 
-3. Abra o Jupyter Notebook:
+4. Abra o Jupyter Notebook:
+   
   jupyter notebook
 
-4. Execute o arquivo dados_python_sql.ipynb.
+6. Execute o arquivo dados_python_sql.ipynb.
 
 ## ✨ Autor
 Luís Ferreira
