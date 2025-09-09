@@ -1,4 +1,4 @@
-# 📊 Análise de Vendas com SQL e Python
+# 📊 Análise de Dados com SQL e Python
 
 Este projeto demonstra como integrar **SQL e Python (Pandas, Matplotlib e Seaborn)** para análise de dados.
 A base utilizada contém informações de **pedidos, produtos, vendedores e itens de pedidos**, permitindo a criação de consultas e visualizações para explorar os principais insights de negócio.
